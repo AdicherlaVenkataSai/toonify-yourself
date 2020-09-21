@@ -32,6 +32,8 @@
 
 ### Youtube Videos
 
+<a href="https://youtu.be/SPI5uGCnxlc">StyleGAN part 1 (algorithm review)</a> \
+<a href="https://youtu.be/_bh3U9HB-kg">StyleGAN part 2 (results and discussion)</a> \
 <a href="https://youtu.be/c-NJtV9Jvp0">StyleGAN2</a> \
 <a href="https://drive.google.com/drive/folders/1yXDV96SFXoUiZKU7AyE6DyKgDpIk4wUZ">Google drive videos</a> \
 <a href="https://youtu.be/s3ZC2rMczt8">StyleGAN2 transfer learning conundrum</a>
