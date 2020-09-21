@@ -7,7 +7,8 @@
 <a href="https://www.justinpinkney.com/toonify-yourself"> Toonify yourself</a> \
 <a href="https://www.justinpinkney.com/stylegan-network-blending">Stylegan network blending</a> \
 <a href="https://www.justinpinkney.com/ukiyoe-yourself/">Ukiyo-e Yourself with StyleGAN 2</a> \
-<a href="https://www.justinpinkney.com/pretrained-stylegan">Pretrained StyleGAN</a>
+<a href="https://www.justinpinkney.com/pretrained-stylegan">Pretrained StyleGAN</a> \
+<a href="https://developers.google.com/machine-learning/gan">GAN Tutorial</a> 
 
 
 ### Repository
