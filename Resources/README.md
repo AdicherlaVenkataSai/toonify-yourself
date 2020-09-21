@@ -21,6 +21,7 @@
 ### Papers
 
 <a href="https://arxiv.org/abs/1912.04958">Analyzing and Improving the Image Quality of StyleGAN</a> \
+<a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a> \
 <a href="https://arxiv.org/abs/2003.03581">StyleGAN2 Distillation for Feed-forward Image Manipulation</a> \
 <a href="https://arxiv.org/abs/2004.14367">Editing in Style: Uncovering the Local Semantics of GANs</a>
 
