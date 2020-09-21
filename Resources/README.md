@@ -14,6 +14,7 @@
 ### Repository
 
 <a href="https://github.com/NVlabs/stylegan2">Stylegan2</a> \
+<a href="https://github.com/NVlabs/stylegan">StyleGAN</a> \
 <a href="https://github.com/justinpinkney/stylegan2">Stylegan2 Modified</a> \
 <a href="https://github.com/Norod/my-colab-experiments">Creators work with stylegan>/a> \
 <a href="https://github.com/EvgenyKashin/stylegan2-distillation">StyleGAN2 Distillation for Feed-forward Image Manipulation</a> \
