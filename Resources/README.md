@@ -32,6 +32,7 @@
 
 ### Youtube Videos
 
+<a href="https://youtu.be/dCKbRCUyop8">Face editing with Generative Adversarial Networks</a> \
 <a href="https://youtu.be/SPI5uGCnxlc">StyleGAN part 1 (algorithm review)</a> \
 <a href="https://youtu.be/_bh3U9HB-kg">StyleGAN part 2 (results and discussion)</a> \
 <a href="https://youtu.be/c-NJtV9Jvp0">StyleGAN2</a> \
